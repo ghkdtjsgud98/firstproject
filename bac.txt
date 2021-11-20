@@ -1,0 +1,20 @@
+//const add = require("./add");
+//const stat = require("./stat");
+//const result = add(1, 3);
+
+/*const readline = require("readline");
+
+const rl = readline.createInterface({
+  input: process.stdin,
+  output: process.stdout,
+});
+
+rl.question("What do you think of Node JS?", (answer) => {
+  console.log(`Youre Answer:${answer}`);
+
+  rl.close();
+});*/  //readline
+
+/*const fs = require("fs");
+
+fs.writeFileSync("./hello.txt","Hello sunhyung");*/ // writefile
